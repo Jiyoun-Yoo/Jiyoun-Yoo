@@ -6,12 +6,17 @@
 
 <br>  
 
-Let the good times roll!
+- ENTJ ✨
+- Web-developer-to-be 💻
+- 한국어 / English 💬 
 
-### Studying
+<br>
+
+### Studying ✍🏻
 - Java
 - Algorithm
 - Html & CSS
+- JavaScript
 
 ### Interest 👀
 - Programming
