@@ -5,8 +5,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiyounyou&count_bg=%239874CB&title_bg=%23685A72&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 <br>  
-Hello, world!
-<br>  
+## Hello, world!  
 
 - ENTJ ✨
 - Web-developer-to-be 💻
