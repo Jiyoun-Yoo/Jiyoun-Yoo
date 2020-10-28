@@ -9,7 +9,6 @@
 - ENTJ ✨
 - Web-developer-to-be 💻
 - 한국어 / English 💬 
-
 <br>
 
 ### Studying ✍🏻
