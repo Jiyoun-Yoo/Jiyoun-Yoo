@@ -6,8 +6,7 @@
 
 <br>  
   
-## Hello, world!  
-
+### Hello, world!  
 - ENTJ ✨
 - Web-developer-to-be 💻
 - 한국어 / English 💬 
