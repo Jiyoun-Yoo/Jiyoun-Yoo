@@ -11,17 +11,26 @@
 - Web-developer-to-be 💻
 - 한국어 / English 💬 
 
+Single Column(1단 글)
+<div class="pull-left">
+    
 ### Studying ✍🏻
 - Java
 - Algorithm
 - Html & CSS
 - JavaScript
 
+</div>
+<div class="pull-right">
+
 ### Interest 👀
 - Programming
 - Traveling 
 - Learning new languages
 
+</div>
+<hr>
+Single Column(1단 글)
 
 
 <!--
