@@ -8,15 +8,15 @@
   
 ### Hello, world!  
 - ENTJ ✨
-- Web-developer-to-be 💻
+- Junior Web Developer 💻
 - 한국어 / English 💬 
 
 
 ### Studying ✍🏻
 - Java
-- Algorithm
 - Html & CSS
 - JavaScript
+- Vue.js
 
 
 ### Interest 👀
