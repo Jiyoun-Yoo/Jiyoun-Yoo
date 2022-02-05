@@ -8,21 +8,16 @@
   
 ### Hello, world!  
 - ENTJ ✨
-- Junior Web Developer 💻
+- Junior Web Developer at NICE 💻
 - 한국어 / English 💬 
 
 
-### Studying ✍🏻
-- Java
-- Html & CSS
+### Programming Skills
+- Java & Spring Framework
 - JavaScript
-- Vue.js
+  - jQuery
+  - Vue.js
 
-
-### Interest 👀
-- Programming
-- Traveling 
-- Learning new languages
 
 
 <!--
