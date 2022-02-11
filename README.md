@@ -1,28 +1,22 @@
 <p align="center">
-   <a href="https://jiyounyou.github.io/">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello👋,%20I'm%20Jiyoun%20You.&fontSize=40" />
-  </a>
-   <h3 align="center">Junior Web Developer since 2020 💻</h3>
-</p>
-
-<br>
-   
-<p align="center">
   <img alt="jiyounyou" src="https://komarev.com/ghpvc/?username=jiyounyou&label=Profile%20views&color=0e75b6&style=flat" />
   <a href="https://hits.seeyoufarm.com">
   <img alt="Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiyounyou&count_bg=%239874CB&title_bg=%23685A72&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true" />
   </a>
 </p>
 
-<br>
-
----
-
-<br>
+<p align="center">
+   <a href="https://jiyounyou.github.io/">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello👋,%20I'm%20Jiyoun%20You.&fontSize=40" />
+  </a>
+</p>
 
 <p align="center">
-  <b>✨ Connect with me: </b>
-    <a href="mailto:younny418@gmail.com">
+   <h3 align="center">✨ Connect with me </h3>
+</p>
+
+<p align="center">
+      <a href="mailto:younny418@gmail.com">
     <img alt="Gmail Badge" src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:younny418@gmail.com" />
   </a>
 
@@ -37,10 +31,14 @@
 -->
 </p>
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jiyounyou&show_icons=true&locale=en&theme=radical" alt="jiyounyou" />
-</p>
 
+<br>
+
+---
+
+<br>
+
+<h3 align="center">Junior Web Developer since 2020 💻</h3>
 
 <p align="center">
   <b>🛠 Tech Stack: </b>
@@ -51,11 +49,20 @@
   <img alt="Vue.js" src="https://img.shields.io/badge/-Vue-4fc08d?style=flat&logo=vuedotjs&logoColor=fff" />
 </p>
 
+<p align="center">
+   <a href="https://github.com/jiyounyou">
+     <img align="center" src="https://github-readme-stats.vercel.app/api?username=jiyounyou&show_icons=true&locale=en&theme=radical" alt="jiyounyou" />
+   </a>
+</p>
+
 <!-- 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyounyou&layout=&theme=radical" alt="jiyounyou" />
+   <a href="https://github.com/jiyounyou">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyounyou&layout=compact&theme=radical" alt="jiyounyou" />
+   </a>
 </p>
  -->
+
 <br>  
   
 
