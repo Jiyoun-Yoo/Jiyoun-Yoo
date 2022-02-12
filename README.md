@@ -50,8 +50,8 @@
 </p>
 
 <p align="center">
-   <a href="https://github.com/jiyounyou">
-     <img align="center" src="https://github-readme-stats.vercel.app/api?username=jiyounyou&show_icons=true&locale=en&theme=radical" alt="jiyounyou" />
+   <a href="https://github.com/jiyoun-yoo">
+     <img align="center" src="https://github-readme-stats.vercel.app/api?username=jiyoun-yoo&show_icons=true&locale=en&theme=radical" alt="jiyounyou" />
    </a>
 </p>
 
