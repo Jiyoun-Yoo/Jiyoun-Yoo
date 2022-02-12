@@ -7,7 +7,7 @@
 
 <p align="center">
    <a href="https://jiyounyou.github.io/">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello👋,%20I'm%20Jiyoun%20You.&fontSize=40" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello👋,%20I'm%20Jiyoun%20You.&fontSize=40" />
   </a>
 </p>
 
